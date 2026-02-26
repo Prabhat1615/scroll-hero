@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/scroll-hero/static/css/main.777814e2.css",
+    "main.js": "/scroll-hero/static/js/main.b2e41389.js",
+    "static/js/453.db82a447.chunk.js": "/scroll-hero/static/js/453.db82a447.chunk.js",
+    "index.html": "/scroll-hero/index.html",
+    "main.777814e2.css.map": "/scroll-hero/static/css/main.777814e2.css.map",
+    "main.b2e41389.js.map": "/scroll-hero/static/js/main.b2e41389.js.map",
+    "453.db82a447.chunk.js.map": "/scroll-hero/static/js/453.db82a447.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.777814e2.css",
+    "static/js/main.b2e41389.js"
+  ]
+}
