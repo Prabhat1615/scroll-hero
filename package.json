@@ -2,6 +2,7 @@
   "name": "scroll-hero",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://Prabhat1615.github.io/scroll-hero",
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
     "@testing-library/jest-dom": "^6.9.1",
